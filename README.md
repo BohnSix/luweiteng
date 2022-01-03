@@ -1,6 +1,10 @@
 # luweiteng
 friendship across years
 
+```
+    conda info -e --- 'yolo'
+```
+
 # 比赛名称：Tensorflow - Help Protect the Great Barrier Reef
 
 www.kaggle.com/c/tensorflow-great-barrier-reef
@@ -15,6 +19,7 @@ www.kaggle.com/c/tensorflow-great-barrier-reef
 ## Timeline
 
 2022年2月7日 - 报名截止日期。
+
 2022年2月14日 - 最终提交截止日期。
 
 # 参考
@@ -41,7 +46,6 @@ www.kaggle.com/c/tensorflow-great-barrier-reef
 如果使用YOLOV5，那么如何选择具体的版本呢？这里建议选择YOLOV5-L或者YOLOV5-X，模型太小最终的精度不会特别好。
 
 ![model select](./pics/model_select.jpg)
-
 
 ![model select](./pics/model_select2.jpg)
 
